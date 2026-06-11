@@ -313,18 +313,7 @@ img {
     height: 400px;
 }
 
-.image-wrapper::before {
-    content: '';
-    position: absolute;
-    top: -10px;
-    left: -10px;
-    right: -10px;
-    bottom: -10px;
-    background: var(--gradient-primary);
-    border-radius: var(--radius-full);
-    opacity: 0.5;
-    
-}
+
 
 .profile-img {
     width: 100%;
